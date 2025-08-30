@@ -1,5 +1,3 @@
-## 信息 ##
-作者：Ascmor1587
+The full version of this simulator is currently under development. Please stay tuned.
 
-目前正在开发这个模拟器的完整版本，敬请等待。
-
+8/30/2025： Unfortunately, the hard drive failure has damaged critical parts of the project. Coupled with the incomprehensible and outdated code, we have decided to refactor the entire project.
